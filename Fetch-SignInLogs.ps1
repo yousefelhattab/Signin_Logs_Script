@@ -1,8 +1,6 @@
 # ==============================================
 
-# Fetch last 30 days of sign-in logs safely
-
-# with readable TrustType, DeviceManaged (True/False), CorrelationId
+# Fetch last 30 days of sign-in logs 
 
 # ==============================================
  
@@ -159,3 +157,4 @@ $export | Export-Csv -Path $csvPath -NoTypeInformation -Encoding UTF8 -UseCultur
  
 Write-Host "`n✅ Done! Exported to: $csvPath" -ForegroundColor Green
  
+
