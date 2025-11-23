@@ -63,8 +63,8 @@ Admin consent may be required depending on your organization.
 .\Fetch-SignInLogs.ps1
 ```
 
-4. Sign in to Microsoft Graph when prompted
-5. The CSV file will be created in your current directory
+4. Sign in to Microsoft Graph when prompted and complete the required steps.
+5. The CSV file will be created and the path will be given
 
 ---
 
