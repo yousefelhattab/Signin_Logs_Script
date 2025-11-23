@@ -3,7 +3,7 @@
 
 This PowerShell script retrieves **the last 30 days of Microsoft Entra ID (Azure Active Directory)** sign-in logs using the **Microsoft Graph PowerShell SDK**
 
-NOTE: The normal Azure Portal export does NOT include the device type column when exporting device lists to CSV — this system solves that limitation by collecting full device metadata through the API.
+NOTE: The normal Azure Portal CSV export does NOT include the device type column when exporting the signin logs this scripts solves that limitation by collecting full device metadata through the API.
 
 It exports detailed authentication information including:
 
