@@ -35,7 +35,7 @@ Output is saved to:
 Install Microsoft Graph PowerShell SDK:
 
 ```powershell
-Install-Module Microsoft.Graph -Force -AllowClobber
+Install-Module Microsoft.Graph 
 ````
 
 Run PowerShell as **Administrator** if this is your first installation.
