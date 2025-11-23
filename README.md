@@ -91,8 +91,8 @@ The exported CSV contains the following fields:
 * **Microsoft Graph API**
   👉 https://learn.microsoft.com/en-us/graph/use-the-api
 
-* **Get-MgAuditLogSignIn*
-  👉 *https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.reports/get-mgauditlogsignin?view=graph-powershell-1.0*
+* **Get-MgAuditLogSignIn**
+  👉 https://learn.microsoft.com/en-us/powershell/module/microsoft.graph.reports/get-mgauditlogsignin?view=graph-powershell-1.0
 
 ---
 
